@@ -2,7 +2,7 @@
 
 ## Hi there, This is `Swadhin Dhara` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-> ### **Live deployed website link** --> [Netlify link]()
+> ### **Live deployed website link** --> [Netlify link](https://shopify-clone-swadhin-dhara.netlify.app/)
 
 <span>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -12,7 +12,7 @@
 </span>
 
 ## How website looks like
-<img src =""/>
+<img src ="https://github.com/Swadhindhara/Shopify_clone/blob/main/fo.png"/>
 
 
 
